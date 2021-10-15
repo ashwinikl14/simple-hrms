@@ -1,2 +1,2 @@
 # simple-hrms
-In this simple HRMS System user can create,read,update,delete their information 
+In this simple HRMS System users can perform tasks like create,read,update,delete the information 
